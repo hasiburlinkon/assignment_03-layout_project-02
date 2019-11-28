@@ -1,0 +1,45 @@
+.logo{
+	width: 100%;
+	min-height: 60px;
+	background-color: blue;
+}
+.hader{
+	width: 100%;
+	min-height: 100px;
+	background-color: yellow;
+}
+.intro{
+	width: 100%;
+	min-height: 80px;
+	background-color: cyan;
+}
+.container{
+	width: 100%;
+	overflow: hidden;
+}
+.box1{
+	float: right;
+	min-height: 350px;
+	width: 33%;
+	background-color: green;
+	border: 2.2px red solid;
+}
+.box2{
+	float: right;
+	min-height: 350px;
+	width: 33%;
+	background-color: lightblue;
+	border: 2.2px red solid;
+}
+.box3{
+	float: right;
+	min-height: 350px;
+	width: 33%;
+	background-color: violet;
+	border: 2.2px red solid;
+}
+.footer{
+	width: 100%;
+	min-height: 40px;
+	background-color: orange;
+}
